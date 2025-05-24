@@ -6,6 +6,83 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+--------------------------
+
+🚀 Introduction
+Welcome to SocialSphere – a modern, full-stack social media platform built with React, Tailwind CSS, and powered by Supabase.
+This project brings the essential features of a community-driven app to life, including:
+
+📝 Posting content
+
+❤️ Liking posts
+
+💬 Commenting and replying to comments
+
+🌐 Creating and joining communities
+
+🔐 Seamless authentication via GitHub OAuth
+
+---------------------
+
+⚙️ Tech Stack
+React for building the user interface
+Vite for fast development and build processes
+TypeScript for type safety and modern JavaScript features
+Supabase for backend services including authentication, real-time data, and storage
+Tailwind CSS for rapid and responsive styling
+
+-----------------------
+
+# 👌 Quick Start
+
+## Prerequisites
+
+* Git
+* Node.js
+* npm
+
+## Cloning the Repository
+
+Run the following commands in your terminal:
+
+```bash
+git clone https://github.com/machadop1407/social-media-vite-supabase.git
+cd social-media-tutorial
+```
+
+## Installation
+
+Install the dependencies:
+
+```bash
+npm install
+```
+
+## Environment Variables
+
+Create a file named `.env` in the project root and add your Supabase credentials and other configuration values:
+
+```
+VITE_SUPABASE_URL=https://your-supabase-url.supabase.co
+VITE_SUPABASE_ANON_KEY=your-anon-key
+```
+
+## Running the Project
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
+
+
+
+
+
 
 ## Expanding the ESLint configuration
 
