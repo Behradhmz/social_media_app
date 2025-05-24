@@ -33,6 +33,13 @@ Tailwind CSS for rapid and responsive styling
 
 -----------------------
 
+# 🌐 Live Demo
+
+You can see the deployed version here:  
+👉 [https://vercel.com/behrads-projects-19751dcd/social_media](https://vercel.com/behrads-projects-19751dcd/social_media)
+
+-----------------------
+
 # 👌 Quick Start
 
 ## Prerequisites
